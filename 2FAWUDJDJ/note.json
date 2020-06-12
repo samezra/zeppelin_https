@@ -1,0 +1,55 @@
+{
+  "paragraphs": [
+    {
+      "text": "spark2%\n--version",
+      "user": "admin",
+      "dateUpdated": "Jun 11, 2020 9:40:34 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala"
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1591936812666_2098647232",
+      "id": "20200611-214012_2098460023",
+      "dateCreated": "Jun 11, 2020 9:40:12 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "admin",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1591936834080_-1426422191",
+      "id": "20200611-214034_760875872",
+      "dateCreated": "Jun 11, 2020 9:40:34 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "gp_https",
+  "id": "2FAWUDJDJ",
+  "angularObjects": {
+    "2CHS8UYQQ:shared_process": [],
+    "2CK8A9MEG:shared_process": [],
+    "2C4U48MY3_spark2:shared_process": [],
+    "2CKAY1A8Y:shared_process": [],
+    "2CKEKWY8Z:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
